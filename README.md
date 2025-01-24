@@ -1,6 +1,6 @@
 # Hi 👋, I'm Luqman Muriam
 
-You can reach me at [Muriamluqman@gmail.com](mailto:Muriamluqman@gmail.com).
+You can reach me at [luqmanmuriam@gmail.com](mailto:luqmanmuriam@gmail.com).
 
 
 ## Languages and Tools
