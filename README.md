@@ -1,0 +1,19 @@
+# Hi 👋, I'm Muriam Luqman
+
+You can reach me at [Muriamluqman@gmail.com](mailto:Muriamluqman@gmail.com).
+
+
+## Languages and Tools
+
+- Python
+- CSS3
+- HTML5
+- JavaScript
+- MySQL
+- Scikit-learn
+- RStudio
+
+<!---
+MORAGE6607/MORAGE6607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
