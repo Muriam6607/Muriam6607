@@ -2,7 +2,7 @@
 
 You can reach me at [luqmanmuriam@gmail.com](mailto:luqmanmuriam@gmail.com).
 
-
+ 
 ## Languages and Tools
 
 - Python
