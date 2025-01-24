@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muriam Luqman
+# Hi 👋, I'm Luqman Muriam
 
 You can reach me at [Muriamluqman@gmail.com](mailto:Muriamluqman@gmail.com).
 
