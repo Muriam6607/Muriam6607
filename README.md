@@ -12,6 +12,7 @@ Alison, Completed: February 21, 2025
 ### AWS Certified Cloud Practitioner
 - **Issued:** June 5, 2025  
 - **Expiration:** June 5, 2028  
+- **Certification ID:** 981483f5abd44450aa6bf248f05053eb  
 - [Verification Link](https://aws.amazon.com/verification)
 
 ### Data Science Certifications (HarvardX)
