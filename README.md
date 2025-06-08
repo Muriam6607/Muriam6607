@@ -72,15 +72,6 @@ Alison, Completed: February 21, 2025
 - **Zomato Restaurant Dashboard:** Analyzed restaurant performance metrics and customer reviews.
 - **Back Client Marketing Dashboard:** Evaluated marketing effectiveness across client segments.
 
-## GitHub Projects
-- [Artframe](https://github.com/Muriam6607/artframe)
-- [Bank](https://github.com/Muriam6607/bank)
-- [Big5](https://github.com/Muriam6607/big5)
-- [Bitcoin](https://github.com/Muriam6607/bitcoin)
-- [BNB](https://github.com/Muriam6607/bnb)
-- [Learn Number Guessing Game](https://github.com/Muriam6607/learn-number-guessing-game) (Forked from freeCodeCamp)
-- [GitHub Profile](https://github.com/Muriam6607)
-
 ## Learning Paths
 - **AWS Cloud:** Completed
 - **AWS Serverless:** Completed
