@@ -26,6 +26,6 @@ Movie Recommendation System: Collaborative filtering using the MovieLens 10M dat
 
 📫 Connect with me:
 
-LinkedIn: www.linkedin.com/in/muriam-luqman-95a86236a  
+LinkedIn: www.linkedin.com/in/muriam-luqman 
 Credly: https://www.credly.com/users/muriam-luqman
 Email: lumanmuriam@gmail.com   
